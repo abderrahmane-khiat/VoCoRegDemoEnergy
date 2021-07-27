@@ -39,7 +39,7 @@ dcterms:license a owl:AnnotationProperty .
 dcterms:publisher a owl:AnnotationProperty .
 vann:preferredNamespacePrefix a owl:AnnotationProperty .
 vann:preferredNamespaceUri a owl:AnnotationProperty .
-
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 s4ener:ActivationDelay
   rdf:type owl:Class ;
   rdfs:comment "The scheduled activation delay for a slot."@en ;
