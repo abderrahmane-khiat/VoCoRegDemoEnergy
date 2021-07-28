@@ -64,6 +64,7 @@ s4ener:ActiveDurationMax
   rdfs:label "Active duration max"@en ;
   rdfs:subClassOf <http://www.w3.org/2006/time#TemporalEntity> ;
 .
+testing 
 s4ener:ActiveDurationMin
   rdf:type owl:Class ;
   rdfs:comment "The active mininum duration a power sequence can run without interruption."@en ;
